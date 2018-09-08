@@ -1,2 +1,1 @@
-# lightBox
-jquery lightBox
+# comon
